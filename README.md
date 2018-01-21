@@ -1,5 +1,5 @@
 # gms-connect-4
-An engine + GUI for a _Connect 4_ game in GameMaker: Studio. This project corresponds to a blog post tutorial, [found here](https://zackbanack.com/blog/connect4).
+An engine + GUI for a local two-player _Connect 4_ game in GameMaker: Studio. This project corresponds to a blog post tutorial, [found here](https://zackbanack.com/blog/connect4).
 
 ## Installation
 
