@@ -3,7 +3,7 @@ An engine + GUI for a local two-player _Connect 4_ game in GameMaker: Studio. Th
 
 ## Installation
 
-Install YoYo Game's GameMaker: Studio (1.x [or 2.x with minor syntaxical adjustments]), place all files in a directory, and connect_4.project in the software.
+Install YoYo Game's GameMaker: Studio (1.x [or 2.x with minor syntaxical adjustments]), place all files in a single directory, and open connect_4.project in the software.
 
 ## Authors
 
