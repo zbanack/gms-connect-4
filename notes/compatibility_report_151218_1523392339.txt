@@ -1,7 +1,3 @@
-
-
-
-
 Converting GML script: ${project_dir}/scripts/check_win/check_win.gml
 Converted description /// @description check_win(player);/// @param player
 
