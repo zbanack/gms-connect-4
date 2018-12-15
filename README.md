@@ -1,19 +1,15 @@
+# gms-connect-4
+An engine + GUI for a local two-player _Connect 4_ game in GameMaker: Studio. This project corresponds to a blog post tutorial, [found here](https://zackbanack.com/blog/connect4).
 
+## Installation
 
+Install YoYo Game's GameMaker: Studio 2.x and open the connect_4.yyp project.
 
+## Authors
 
-Converting GML script: ${project_dir}/scripts/check_win/check_win.gml
-Converted description /// @description check_win(player);/// @param player
+* **Zack Banack** - *Initial work* - [zbanack](https://github.com/zbanack), [website](https://zackbanack.com)
 
-Font fnt32 has been converted to font family Arial (Bold Italic) - Font has been regenerated, small inconsistencies may occur
-Converting GML script: ${project_dir}/objects/oControl/Create_0.gml
-Converted builtin - line 40: background_color[0] = c_black -> __background_set_colour( c_black )
+## License
 
-macOS icon ${options_dir}/mac/icons/icon512.png written out as 32-bit
-Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
-Game speed set to 30
-Added compatibility script 'background/__background_set_colour.gml'
-Added compatibility script 'background/__init_background.gml'
-Added compatibility script '__init_global.gml'
-Added compatibility script 'background/__background_get_colour_element.gml'
-Added compatibility script 'background/__background_set_element.gml'
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
